@@ -5,7 +5,7 @@
 - Open Source Software
   - Github
   - SourceTree
- - Web Server
+- Web Server
   - Apache
   - ~~Sambar~~
 
